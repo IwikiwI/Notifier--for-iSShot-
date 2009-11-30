@@ -1,0 +1,256 @@
+TNotifier
+v7
+r0
+t281289865.715466
+cCheck dependencies
+cProcessInfoPlistFile /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Info.plist Notifier-Info.plist
+cCopyStringsFile /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/iwikiwi/Documents/Notifier/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch.gch Notifier_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/Notifier_DataModel.mom /Users/iwikiwi/Documents/Notifier/Notifier_DataModel.xcdatamodel
+cCompileC build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/main.o /Users/iwikiwi/Documents/Notifier/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier_AppDelegate.o /Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier.o /Users/iwikiwi/Documents/Notifier/Notifier.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/MacOS/Notifier normal x86_64
+cTouch /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/iwikiwi/Documents/Notifier/English.lproj/InfoPlist.strings
+c000000004B13EC3E000000000000005A
+t1259596862
+s90
+
+N/Users/iwikiwi/Documents/Notifier/English.lproj/MainMenu.xib
+c000000004B13ED000000000000024F30
+t1259597056
+s151344
+
+N/Users/iwikiwi/Documents/Notifier/Notifier.h
+c000000004B13EC8A0000000000000113
+t1259596938
+s275
+i<Cocoa/Cocoa.h>
+
+N/Users/iwikiwi/Documents/Notifier/Notifier.m
+c000000004B13ECB40000000000000245
+t1259596980
+s581
+i"Notifier.h"
+i<Foundation/Foundation.h>
+
+N/Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.h
+c000000004B13EC3E0000000000000307
+t1259596862
+s775
+i<Cocoa/Cocoa.h>
+
+N/Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.m
+c000000004B13EC3E0000000000001E13
+t1259596862
+s7699
+i"Notifier_AppDelegate.h"
+
+N/Users/iwikiwi/Documents/Notifier/Notifier_DataModel.xcdatamodel
+c000000004B13EC3E0000000000000088
+t1259596862
+s136
+
+N/Users/iwikiwi/Documents/Notifier/Notifier_Prefix.pch
+c000000004B13EC3E0000000000000093
+t1259596862
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app
+t1259597065
+s102
+
+N/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Info.plist
+t1259597061
+s889
+
+N/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/MacOS/Notifier
+t1259597065
+s22896
+
+N/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/PkgInfo
+t1259597061
+s8
+
+N/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1259597061
+s90
+
+N/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/English.lproj/MainMenu.nib
+t1259597061
+s28880
+
+N/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/Notifier_DataModel.mom
+t1259597065
+s488
+
+N/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier.LinkFileList
+c000000004B13ED05000000000000014F
+t1259597061
+s335
+
+N/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier.o
+t1259597065
+s15584
+
+N/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier_AppDelegate.o
+t1259597065
+s41632
+
+N/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/main.o
+t1259597065
+s4976
+
+N/Users/iwikiwi/Documents/Notifier/main.m
+c000000004B13EC3E0000000000000102
+t1259596862
+s258
+i<Cocoa/Cocoa.h>
+
+N/var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch.gch
+t1259597065
+s54212368
+
+NNotifier-Info.plist
+c000000004B13EC3E00000000000003F3
+t1259596862
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies281289861#281289861#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier.o /Users/iwikiwi/Documents/Notifier/Notifier.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281289865.511347
+e281289865.653425
+r1
+xCompileC
+xbuild/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier.o
+x/Users/iwikiwi/Documents/Notifier/Notifier.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/iwikiwi/Documents/Notifier/Notifier.m: In function '-[Notifier insertText:]':
+o/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: 'NSUserDefaults' may not respond to '-:'
+o/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: (Messages without a matching method signature
+o/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: will be assumed to return 'id' and accept
+o/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: '...' as arguments.)
+lSLF07#2@52"Compile /Users/iwikiwi/Documents/Notifier/Notifier.m281289865#281289865#0(467"/Users/iwikiwi/Documents/Notifier/Notifier.m: In function '-[Notifier insertText:]':/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: 'NSUserDefaults' may not respond to '-:'/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: (Messages without a matching method signature/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: will be assumed to return 'id' and accept/Users/iwikiwi/Documents/Notifier/Notifier.m:18: warning: '...' as arguments.)2(22@40"'NSUserDefaults' may not respond to '-:'281289865#85#99#0(6@44"/Users/iwikiwi/Documents/Notifier/Notifier.m281289780#18#0#18#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)281289865#184#104#0(6@44"/Users/iwikiwi/Documents/Notifier/Notifier.m281289780#18#0#18#0#0"0(0#0#44"/Users/iwikiwi/Documents/Notifier/Notifier.m4300882208#1065"    cd /Users/iwikiwi/Documents/Notifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Notifier.hmap -F/Users/iwikiwi/Documents/Notifier/build/Debug -I/Users/iwikiwi/Documents/Notifier/build/Debug/include -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources/x86_64 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources -include /var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch -c /Users/iwikiwi/Documents/Notifier/Notifier.m -o /Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier.o0#
+
+CCompileC build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier_AppDelegate.o /Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281289865.394891
+e281289865.582352
+r1
+xCompileC
+xbuild/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier_AppDelegate.o
+x/Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.m281289865#281289865#0(0"0(0#0#56"/Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.m4300882208#1089"    cd /Users/iwikiwi/Documents/Notifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Notifier.hmap -F/Users/iwikiwi/Documents/Notifier/build/Debug -I/Users/iwikiwi/Documents/Notifier/build/Debug/include -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources/x86_64 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources -include /var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch -c /Users/iwikiwi/Documents/Notifier/Notifier_AppDelegate.m -o /Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier_AppDelegate.o0#
+
+CCompileC build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/main.o /Users/iwikiwi/Documents/Notifier/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281289865.362123
+e281289865.511244
+r1
+xCompileC
+xbuild/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/main.o
+x/Users/iwikiwi/Documents/Notifier/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/iwikiwi/Documents/Notifier/main.m281289865#281289865#0(0"0(0#0#40"/Users/iwikiwi/Documents/Notifier/main.m4300882208#1057"    cd /Users/iwikiwi/Documents/Notifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Notifier.hmap -F/Users/iwikiwi/Documents/Notifier/build/Debug -I/Users/iwikiwi/Documents/Notifier/build/Debug/include -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources/x86_64 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources -include /var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch -c /Users/iwikiwi/Documents/Notifier/main.m -o /Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/iwikiwi/Documents/Notifier/English.lproj/MainMenu.xib
+s281289861.532953
+e281289861.872508
+r1
+xCompileXIB
+x/Users/iwikiwi/Documents/Notifier/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib281289861#281289861#0(0"0(0#0#60"/Users/iwikiwi/Documents/Notifier/English.lproj/MainMenu.xib4300882208#313"    cd /Users/iwikiwi/Documents/Notifier    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/English.lproj/MainMenu.nib /Users/iwikiwi/Documents/Notifier/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s281289861.531737
+e281289861.561922
+r1
+xCopyStringsFile
+x/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings281289861#281289861#0(0"0(0#0#65"/Users/iwikiwi/Documents/Notifier/English.lproj/InfoPlist.strings4300882208#357"    cd /Users/iwikiwi/Documents/Notifier    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/Notifier_DataModel.mom /Users/iwikiwi/Documents/Notifier/Notifier_DataModel.xcdatamodel
+s281289865.361240
+e281289865.394796
+r1
+xDataModelCompile
+x/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/Notifier_DataModel.mom
+x/Users/iwikiwi/Documents/Notifier/Notifier_DataModel.xcdatamodel
+lSLF07#2@72"Compile /Users/iwikiwi/Documents/Notifier/Notifier_DataModel.xcdatamodel281289865#281289865#0(0"0(0#0#64"/Users/iwikiwi/Documents/Notifier/Notifier_DataModel.xcdatamodel4300882208#264"    cd /Users/iwikiwi/Documents/Notifier    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/iwikiwi/Documents/Notifier/Notifier_DataModel.xcdatamodel /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Resources/Notifier_DataModel.mom0#
+
+CLd /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/MacOS/Notifier normal x86_64
+s281289865.653510
+e281289865.712798
+r1
+xLd
+x/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/MacOS/Notifier
+xnormal
+xx86_64
+lSLF07#2@87"Link /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/MacOS/Notifier281289865#281289865#0(0"0(0#0#0"4300882208#522"    cd /Users/iwikiwi/Documents/Notifier    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/iwikiwi/Documents/Notifier/build/Debug -F/Users/iwikiwi/Documents/Notifier/build/Debug -filelist /Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Objects-normal/x86_64/Notifier.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/MacOS/Notifier0#
+
+CProcessInfoPlistFile /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Info.plist Notifier-Info.plist
+s281289861.502519
+e281289861.531627
+r1
+xProcessInfoPlistFile
+x/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Info.plist
+xNotifier-Info.plist
+lSLF07#2@27"Process Notifier-Info.plist281289861#281289861#0(0"0(0#0#53"/Users/iwikiwi/Documents/Notifier/Notifier-Info.plist28710898603655280#298"    cd /Users/iwikiwi/Documents/Notifier    builtin-infoPlistUtility Notifier-Info.plist -genpkginfo /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch.gch Notifier_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281289861.872632
+e281289865.361096
+r1
+xProcessPCH
+x/var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch.gch
+xNotifier_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Notifier_Prefix.pch281289861#281289865#0(0"0(0#0#53"/Users/iwikiwi/Documents/Notifier/Notifier_Prefix.pch4300882208#967"    cd /Users/iwikiwi/Documents/Notifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/Notifier.hmap -F/Users/iwikiwi/Documents/Notifier/build/Debug -I/Users/iwikiwi/Documents/Notifier/build/Debug/include -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources/x86_64 -I/Users/iwikiwi/Documents/Notifier/build/Notifier.build/Debug/Notifier.build/DerivedSources -c /Users/iwikiwi/Documents/Notifier/Notifier_Prefix.pch -o /var/folders/1U/1UgQIqLwGUu1b45806N4G++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notifier_Prefix-axytyenabzxnseauobsmqiilexrh/Notifier_Prefix.pch.gch0#
+
+CTouch /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app
+s281289865.712884
+e281289865.715427
+r1
+xTouch
+x/Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app
+lSLF07#2@64"Touch /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app281289865#281289865#0(0"0(0#0#0"4300882208#122"    cd /Users/iwikiwi/Documents/Notifier    /usr/bin/touch -c /Users/iwikiwi/Documents/Notifier/build/Debug/Notifier.app0#
+
