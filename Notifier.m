@@ -16,8 +16,11 @@
 {	
 	NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
 	
-	bool arg = [[NSUserDefaults standardUserDefaults]stringForKey:@"bool"];
-	if (arg = YES) {
+	NSString *arg = [[NSUserDefaults standardUserDefaults]stringForKey:@"bool"];
+	NSLog(@"this is %@",arg);
+	NSComparisonResult result = [arg compare: @"YES"];
+	NSLog(@"this is %d",result);
+	if (result == 0) {
 		[textField setStringValue:@"iMAGE uploaded, check Clipboard!"];
 		
 	}
@@ -32,7 +35,7 @@
 
 +(void)exitZero:(id)param 
 {
-	sleep(1.5);
+	sleep(2);
 	exit(0);
 }
 @end
